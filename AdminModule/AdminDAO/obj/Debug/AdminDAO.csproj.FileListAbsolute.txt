@@ -1,0 +1,8 @@
+C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\proyecto2\ProyectoLenguajes2018\AdminModule\AdminDAO\bin\Debug\AdminDAO.dll.config
+C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\proyecto2\ProyectoLenguajes2018\AdminModule\AdminDAO\bin\Debug\AdminDAO.dll
+C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\proyecto2\ProyectoLenguajes2018\AdminModule\AdminDAO\bin\Debug\AdminDAO.pdb
+C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\proyecto2\ProyectoLenguajes2018\AdminModule\AdminDAO\bin\Debug\AdminTO.dll
+C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\proyecto2\ProyectoLenguajes2018\AdminModule\AdminDAO\bin\Debug\AdminTO.pdb
+C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\proyecto2\ProyectoLenguajes2018\AdminModule\AdminDAO\obj\Debug\AdminDAO.csprojResolveAssemblyReference.cache
+C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\proyecto2\ProyectoLenguajes2018\AdminModule\AdminDAO\obj\Debug\AdminDAO.dll
+C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\proyecto2\ProyectoLenguajes2018\AdminModule\AdminDAO\obj\Debug\AdminDAO.pdb
