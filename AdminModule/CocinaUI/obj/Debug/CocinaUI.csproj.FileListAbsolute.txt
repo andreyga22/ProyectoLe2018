@@ -1,6 +1,0 @@
-C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\proyecto2\ProyectoLenguajes2018\AdminModule\CocinaUI\bin\CocinaUI.dll.config
-C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\proyecto2\ProyectoLenguajes2018\AdminModule\CocinaUI\bin\CocinaUI.dll
-C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\proyecto2\ProyectoLenguajes2018\AdminModule\CocinaUI\bin\CocinaUI.pdb
-C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\proyecto2\ProyectoLenguajes2018\AdminModule\CocinaUI\obj\Debug\CocinaUI.csprojResolveAssemblyReference.cache
-C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\proyecto2\ProyectoLenguajes2018\AdminModule\CocinaUI\obj\Debug\CocinaUI.dll
-C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\proyecto2\ProyectoLenguajes2018\AdminModule\CocinaUI\obj\Debug\CocinaUI.pdb
