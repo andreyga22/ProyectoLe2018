@@ -25,3 +25,12 @@ C:\Users\josue vargas\Source\Repos\ProyectoLe2018\AdminModule\AdminBL\bin\Debug\
 C:\Users\josue vargas\Source\Repos\ProyectoLe2018\AdminModule\AdminBL\obj\Debug\AdminBL.csprojResolveAssemblyReference.cache
 C:\Users\josue vargas\Source\Repos\ProyectoLe2018\AdminModule\AdminBL\obj\Debug\AdminBL.dll
 C:\Users\josue vargas\Source\Repos\ProyectoLe2018\AdminModule\AdminBL\obj\Debug\AdminBL.pdb
+C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\proyecto3\AdminModule\AdminBL\bin\Debug\AdminBL.dll
+C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\proyecto3\AdminModule\AdminBL\bin\Debug\AdminBL.pdb
+C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\proyecto3\AdminModule\AdminBL\bin\Debug\AdminDAO.dll
+C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\proyecto3\AdminModule\AdminBL\bin\Debug\AdminTO.dll
+C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\proyecto3\AdminModule\AdminBL\bin\Debug\AdminDAO.pdb
+C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\proyecto3\AdminModule\AdminBL\bin\Debug\AdminTO.pdb
+C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\proyecto3\AdminModule\AdminBL\obj\Debug\AdminBL.csprojResolveAssemblyReference.cache
+C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\proyecto3\AdminModule\AdminBL\obj\Debug\AdminBL.dll
+C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\proyecto3\AdminModule\AdminBL\obj\Debug\AdminBL.pdb
