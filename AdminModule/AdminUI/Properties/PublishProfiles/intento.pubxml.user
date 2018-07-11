@@ -1,0 +1,283 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\aquiestan</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Administrador/AdminClientes.aspx">
+      <publishTime>07/10/2018 16:12:15</publishTime>
+    </File>
+    <File Include="Administrador/adminIndex.aspx">
+      <publishTime>07/10/2018 15:27:33</publishTime>
+    </File>
+    <File Include="Administrador/AdminModule.Master">
+      <publishTime>07/10/2018 14:59:10</publishTime>
+    </File>
+    <File Include="Administrador/AdminPedidos.aspx">
+      <publishTime>07/10/2018 15:44:23</publishTime>
+    </File>
+    <File Include="Administrador/adminPlatos.aspx">
+      <publishTime>07/10/2018 15:58:59</publishTime>
+    </File>
+    <File Include="bin/AdminBL.dll">
+      <publishTime>07/11/2018 10:30:56</publishTime>
+    </File>
+    <File Include="bin/AdminDAO.dll">
+      <publishTime>07/11/2018 10:30:53</publishTime>
+    </File>
+    <File Include="bin/AdminTO.dll">
+      <publishTime>07/11/2018 10:30:50</publishTime>
+    </File>
+    <File Include="bin/AdminUI.dll">
+      <publishTime>07/11/2018 10:31:38</publishTime>
+    </File>
+    <File Include="bin/AdminUI.dll.config">
+      <publishTime>07/07/2018 12:41:40</publishTime>
+    </File>
+    <File Include="Clientecin/carrito.html">
+      <publishTime>07/10/2018 15:04:40</publishTime>
+    </File>
+    <File Include="Clientecin/cuenta.html">
+      <publishTime>07/10/2018 15:04:40</publishTime>
+    </File>
+    <File Include="Clientecin/footer.html">
+      <publishTime>07/10/2018 15:04:40</publishTime>
+    </File>
+    <File Include="Clientecin/header.html">
+      <publishTime>07/10/2018 15:04:40</publishTime>
+    </File>
+    <File Include="Clientecin/index.html">
+      <publishTime>07/10/2018 15:04:40</publishTime>
+    </File>
+    <File Include="Cocina/CocinaIndex.aspx">
+      <publishTime>07/10/2018 16:19:55</publishTime>
+    </File>
+    <File Include="Content/bootstrap-grid.css">
+      <publishTime>07/01/2018 13:14:41</publishTime>
+    </File>
+    <File Include="Content/bootstrap-grid.css.map">
+      <publishTime>07/01/2018 13:14:41</publishTime>
+    </File>
+    <File Include="Content/bootstrap-grid.min.css">
+      <publishTime>07/01/2018 13:14:41</publishTime>
+    </File>
+    <File Include="Content/bootstrap-grid.min.css.map">
+      <publishTime>07/01/2018 13:14:41</publishTime>
+    </File>
+    <File Include="Content/bootstrap-reboot.css">
+      <publishTime>07/01/2018 13:14:41</publishTime>
+    </File>
+    <File Include="Content/bootstrap-reboot.css.map">
+      <publishTime>07/01/2018 13:14:41</publishTime>
+    </File>
+    <File Include="Content/bootstrap-reboot.min.css">
+      <publishTime>07/01/2018 13:14:41</publishTime>
+    </File>
+    <File Include="Content/bootstrap-reboot.min.css.map">
+      <publishTime>07/01/2018 13:14:41</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>07/10/2018 13:42:32</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css.map">
+      <publishTime>07/01/2018 13:14:41</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>07/10/2018 14:09:21</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css.map">
+      <publishTime>07/01/2018 13:14:41</publishTime>
+    </File>
+    <File Include="img/121812.jpg">
+      <publishTime>07/01/2018 13:14:41</publishTime>
+    </File>
+    <File Include="img/207783.jpg">
+      <publishTime>07/01/2018 13:14:41</publishTime>
+    </File>
+    <File Include="img/3.jpg">
+      <publishTime>07/02/2018 20:00:31</publishTime>
+    </File>
+    <File Include="img/8bit.jpg">
+      <publishTime>07/01/2018 13:14:41</publishTime>
+    </File>
+    <File Include="img/fotografo1.png">
+      <publishTime>07/02/2018 20:14:32</publishTime>
+    </File>
+    <File Include="img/KARLA_14.JPG">
+      <publishTime>07/01/2018 13:14:41</publishTime>
+    </File>
+    <File Include="img/monolith-sun.jpg">
+      <publishTime>07/01/2018 13:14:41</publishTime>
+    </File>
+    <File Include="img/paella.jpeg">
+      <publishTime>07/01/2018 13:14:41</publishTime>
+    </File>
+    <File Include="img/papas.jpg">
+      <publishTime>07/02/2018 20:17:36</publishTime>
+    </File>
+    <File Include="img/sandwich.jpg">
+      <publishTime>07/02/2018 20:40:39</publishTime>
+    </File>
+    <File Include="img/thumb-1920-207783.jpg">
+      <publishTime>07/01/2018 13:14:41</publishTime>
+    </File>
+    <File Include="Login/ControlUsuarioLogin.aspx">
+      <publishTime>07/10/2018 12:41:14</publishTime>
+    </File>
+    <File Include="Login/login.aspx">
+      <publishTime>07/10/2018 15:17:28</publishTime>
+    </File>
+    <File Include="Rest/Service.svc">
+      <publishTime>07/07/2018 12:41:39</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.bundle.js">
+      <publishTime>07/01/2018 13:14:41</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.bundle.js.map">
+      <publishTime>07/01/2018 13:14:41</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.bundle.min.js">
+      <publishTime>07/01/2018 13:14:41</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.bundle.min.js.map">
+      <publishTime>07/01/2018 13:14:42</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>07/01/2018 13:14:42</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js.map">
+      <publishTime>07/01/2018 13:14:42</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>07/01/2018 13:14:42</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js.map">
+      <publishTime>07/01/2018 13:14:42</publishTime>
+    </File>
+    <File Include="Scripts/esm/popper-utils.js">
+      <publishTime>07/01/2018 13:14:42</publishTime>
+    </File>
+    <File Include="Scripts/esm/popper-utils.js.map">
+      <publishTime>07/01/2018 13:14:42</publishTime>
+    </File>
+    <File Include="Scripts/esm/popper-utils.min.js">
+      <publishTime>07/01/2018 13:14:42</publishTime>
+    </File>
+    <File Include="Scripts/esm/popper-utils.min.js.map">
+      <publishTime>07/01/2018 13:14:42</publishTime>
+    </File>
+    <File Include="Scripts/esm/popper.js">
+      <publishTime>07/01/2018 13:14:42</publishTime>
+    </File>
+    <File Include="Scripts/esm/popper.js.map">
+      <publishTime>07/01/2018 13:14:42</publishTime>
+    </File>
+    <File Include="Scripts/esm/popper.min.js">
+      <publishTime>07/01/2018 13:14:42</publishTime>
+    </File>
+    <File Include="Scripts/esm/popper.min.js.map">
+      <publishTime>07/01/2018 13:14:42</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.3.1.js">
+      <publishTime>07/01/2018 13:14:42</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.3.1.min.js">
+      <publishTime>07/01/2018 13:14:42</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.3.1.min.map">
+      <publishTime>07/01/2018 13:14:42</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.3.1.slim.js">
+      <publishTime>07/01/2018 13:14:42</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.3.1.slim.min.js">
+      <publishTime>07/01/2018 13:14:43</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.3.1.slim.min.map">
+      <publishTime>07/01/2018 13:14:43</publishTime>
+    </File>
+    <File Include="Scripts/popper-utils.js">
+      <publishTime>07/01/2018 13:14:43</publishTime>
+    </File>
+    <File Include="Scripts/popper-utils.js.map">
+      <publishTime>07/01/2018 13:14:43</publishTime>
+    </File>
+    <File Include="Scripts/popper-utils.min.js">
+      <publishTime>07/01/2018 13:14:43</publishTime>
+    </File>
+    <File Include="Scripts/popper-utils.min.js.map">
+      <publishTime>07/01/2018 13:14:43</publishTime>
+    </File>
+    <File Include="Scripts/popper.js">
+      <publishTime>07/01/2018 13:14:43</publishTime>
+    </File>
+    <File Include="Scripts/popper.js.map">
+      <publishTime>07/01/2018 13:14:43</publishTime>
+    </File>
+    <File Include="Scripts/popper.min.js">
+      <publishTime>07/01/2018 13:14:43</publishTime>
+    </File>
+    <File Include="Scripts/popper.min.js.map">
+      <publishTime>07/01/2018 13:14:43</publishTime>
+    </File>
+    <File Include="Scripts/README.md">
+      <publishTime>07/01/2018 13:14:43</publishTime>
+    </File>
+    <File Include="Scripts/umd/popper-utils.js">
+      <publishTime>07/01/2018 13:14:43</publishTime>
+    </File>
+    <File Include="Scripts/umd/popper-utils.js.map">
+      <publishTime>07/01/2018 13:14:43</publishTime>
+    </File>
+    <File Include="Scripts/umd/popper-utils.min.js">
+      <publishTime>07/01/2018 13:14:43</publishTime>
+    </File>
+    <File Include="Scripts/umd/popper-utils.min.js.map">
+      <publishTime>07/01/2018 13:14:43</publishTime>
+    </File>
+    <File Include="Scripts/umd/popper.js">
+      <publishTime>07/01/2018 13:14:43</publishTime>
+    </File>
+    <File Include="Scripts/umd/popper.js.map">
+      <publishTime>07/01/2018 13:14:43</publishTime>
+    </File>
+    <File Include="Scripts/umd/popper.min.js">
+      <publishTime>07/01/2018 13:14:43</publishTime>
+    </File>
+    <File Include="Scripts/umd/popper.min.js.map">
+      <publishTime>07/01/2018 13:14:43</publishTime>
+    </File>
+    <File Include="server_images/client.jpg">
+      <publishTime>07/01/2018 11:57:51</publishTime>
+    </File>
+    <File Include="server_images/icon.png">
+      <publishTime>07/01/2018 13:14:43</publishTime>
+    </File>
+    <File Include="server_images/order.jpg">
+      <publishTime>07/01/2018 12:01:07</publishTime>
+    </File>
+    <File Include="server_images/other.jpg">
+      <publishTime>07/01/2018 12:01:53</publishTime>
+    </File>
+    <File Include="server_images/paella.jpg">
+      <publishTime>07/01/2018 13:14:43</publishTime>
+    </File>
+    <File Include="server_images/slogan.png">
+      <publishTime>07/01/2018 13:14:43</publishTime>
+    </File>
+    <File Include="server_images/sopa.jpg">
+      <publishTime>07/01/2018 13:14:43</publishTime>
+    </File>
+    <File Include="server_images/surimi.jpg">
+      <publishTime>07/01/2018 13:14:43</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/11/2018 10:25:27</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,9 @@
+C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\AdminModule\AdminBL\bin\Release\AdminBL.dll
+C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\AdminModule\AdminBL\bin\Release\AdminBL.pdb
+C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\AdminModule\AdminBL\bin\Release\AdminDAO.dll
+C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\AdminModule\AdminBL\bin\Release\AdminTO.dll
+C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\AdminModule\AdminBL\bin\Release\AdminDAO.pdb
+C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\AdminModule\AdminBL\bin\Release\AdminTO.pdb
+C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\AdminModule\AdminBL\obj\Release\AdminBL.csprojResolveAssemblyReference.cache
+C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\AdminModule\AdminBL\obj\Release\AdminBL.dll
+C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\AdminModule\AdminBL\obj\Release\AdminBL.pdb

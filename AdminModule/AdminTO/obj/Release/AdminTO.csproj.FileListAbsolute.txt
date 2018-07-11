@@ -1,0 +1,5 @@
+C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\AdminModule\AdminTO\bin\Release\AdminTO.dll
+C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\AdminModule\AdminTO\bin\Release\AdminTO.pdb
+C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\AdminModule\AdminTO\obj\Release\AdminTO.csprojResolveAssemblyReference.cache
+C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\AdminModule\AdminTO\obj\Release\AdminTO.dll
+C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\AdminModule\AdminTO\obj\Release\AdminTO.pdb
