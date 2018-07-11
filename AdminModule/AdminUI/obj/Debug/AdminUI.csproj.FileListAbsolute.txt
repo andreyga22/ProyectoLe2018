@@ -22,3 +22,15 @@ C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\pro
 C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\proyecto4\AdminModule\AdminUI\obj\Debug\AdminUI.csprojResolveAssemblyReference.cache
 C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\proyecto4\AdminModule\AdminUI\obj\Debug\AdminUI.dll
 C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\proyecto4\AdminModule\AdminUI\obj\Debug\AdminUI.pdb
+C:\Users\Edgardo\Documents\GitHub\Prueba\AdminModule\AdminUI\bin\AdminUI.dll.config
+C:\Users\Edgardo\Documents\GitHub\Prueba\AdminModule\AdminUI\bin\AdminUI.dll
+C:\Users\Edgardo\Documents\GitHub\Prueba\AdminModule\AdminUI\bin\AdminUI.pdb
+C:\Users\Edgardo\Documents\GitHub\Prueba\AdminModule\AdminUI\bin\AdminBL.dll
+C:\Users\Edgardo\Documents\GitHub\Prueba\AdminModule\AdminUI\bin\AdminTO.dll
+C:\Users\Edgardo\Documents\GitHub\Prueba\AdminModule\AdminUI\bin\AdminDAO.dll
+C:\Users\Edgardo\Documents\GitHub\Prueba\AdminModule\AdminUI\bin\AdminBL.pdb
+C:\Users\Edgardo\Documents\GitHub\Prueba\AdminModule\AdminUI\bin\AdminTO.pdb
+C:\Users\Edgardo\Documents\GitHub\Prueba\AdminModule\AdminUI\bin\AdminDAO.pdb
+C:\Users\Edgardo\Documents\GitHub\Prueba\AdminModule\AdminUI\obj\Debug\AdminUI.csprojResolveAssemblyReference.cache
+C:\Users\Edgardo\Documents\GitHub\Prueba\AdminModule\AdminUI\obj\Debug\AdminUI.dll
+C:\Users\Edgardo\Documents\GitHub\Prueba\AdminModule\AdminUI\obj\Debug\AdminUI.pdb

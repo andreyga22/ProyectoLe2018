@@ -3,6 +3,7 @@
   <PropertyGroup>
     <ProjectView>ShowAllFiles</ProjectView>
     <NameOfLastUsedPublishProfile>intento</NameOfLastUsedPublishProfile>
+    <ToolsVersionPromptShown>1.8</ToolsVersionPromptShown>
   </PropertyGroup>
   <ProjectExtensions>
     <VisualStudio>

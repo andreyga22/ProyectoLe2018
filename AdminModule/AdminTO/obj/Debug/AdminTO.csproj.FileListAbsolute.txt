@@ -7,3 +7,8 @@ C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\pro
 C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\proyecto4\AdminModule\AdminTO\bin\Debug\AdminTO.pdb
 C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\proyecto4\AdminModule\AdminTO\obj\Debug\AdminTO.dll
 C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\proyecto4\AdminModule\AdminTO\obj\Debug\AdminTO.pdb
+C:\Users\Edgardo\Documents\GitHub\Prueba\AdminModule\AdminTO\bin\Debug\AdminTO.dll
+C:\Users\Edgardo\Documents\GitHub\Prueba\AdminModule\AdminTO\bin\Debug\AdminTO.pdb
+C:\Users\Edgardo\Documents\GitHub\Prueba\AdminModule\AdminTO\obj\Debug\AdminTO.csprojResolveAssemblyReference.cache
+C:\Users\Edgardo\Documents\GitHub\Prueba\AdminModule\AdminTO\obj\Debug\AdminTO.dll
+C:\Users\Edgardo\Documents\GitHub\Prueba\AdminModule\AdminTO\obj\Debug\AdminTO.pdb
