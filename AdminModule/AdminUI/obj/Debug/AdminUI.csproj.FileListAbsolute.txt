@@ -10,3 +10,15 @@ C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\pro
 C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\proyecto2\ProyectoLenguajes2018\AdminModule\AdminUI\obj\Debug\AdminUI.csprojResolveAssemblyReference.cache
 C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\proyecto2\ProyectoLenguajes2018\AdminModule\AdminUI\obj\Debug\AdminUI.dll
 C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\proyecto2\ProyectoLenguajes2018\AdminModule\AdminUI\obj\Debug\AdminUI.pdb
+C:\Users\Edgardo\Documents\GitHub\ProyectoLe2018\AdminModule\AdminUI\bin\AdminUI.dll.config
+C:\Users\Edgardo\Documents\GitHub\ProyectoLe2018\AdminModule\AdminUI\bin\AdminUI.dll
+C:\Users\Edgardo\Documents\GitHub\ProyectoLe2018\AdminModule\AdminUI\bin\AdminUI.pdb
+C:\Users\Edgardo\Documents\GitHub\ProyectoLe2018\AdminModule\AdminUI\bin\AdminBL.dll
+C:\Users\Edgardo\Documents\GitHub\ProyectoLe2018\AdminModule\AdminUI\bin\AdminTO.dll
+C:\Users\Edgardo\Documents\GitHub\ProyectoLe2018\AdminModule\AdminUI\bin\AdminDAO.dll
+C:\Users\Edgardo\Documents\GitHub\ProyectoLe2018\AdminModule\AdminUI\bin\AdminBL.pdb
+C:\Users\Edgardo\Documents\GitHub\ProyectoLe2018\AdminModule\AdminUI\bin\AdminTO.pdb
+C:\Users\Edgardo\Documents\GitHub\ProyectoLe2018\AdminModule\AdminUI\bin\AdminDAO.pdb
+C:\Users\Edgardo\Documents\GitHub\ProyectoLe2018\AdminModule\AdminUI\obj\Debug\AdminUI.csprojResolveAssemblyReference.cache
+C:\Users\Edgardo\Documents\GitHub\ProyectoLe2018\AdminModule\AdminUI\obj\Debug\AdminUI.dll
+C:\Users\Edgardo\Documents\GitHub\ProyectoLe2018\AdminModule\AdminUI\obj\Debug\AdminUI.pdb

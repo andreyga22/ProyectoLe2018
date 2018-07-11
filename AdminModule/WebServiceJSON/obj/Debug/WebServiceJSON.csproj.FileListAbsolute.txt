@@ -1,0 +1,12 @@
+C:\Users\Edgardo\Documents\GitHub\ProyectoLe2018\AdminModule\WebServiceJSON\bin\WebServiceJSON.dll.config
+C:\Users\Edgardo\Documents\GitHub\ProyectoLe2018\AdminModule\WebServiceJSON\bin\WebServiceJSON.dll
+C:\Users\Edgardo\Documents\GitHub\ProyectoLe2018\AdminModule\WebServiceJSON\bin\WebServiceJSON.pdb
+C:\Users\Edgardo\Documents\GitHub\ProyectoLe2018\AdminModule\WebServiceJSON\bin\AdminBL.dll
+C:\Users\Edgardo\Documents\GitHub\ProyectoLe2018\AdminModule\WebServiceJSON\bin\AdminTO.dll
+C:\Users\Edgardo\Documents\GitHub\ProyectoLe2018\AdminModule\WebServiceJSON\bin\AdminDAO.dll
+C:\Users\Edgardo\Documents\GitHub\ProyectoLe2018\AdminModule\WebServiceJSON\bin\AdminBL.pdb
+C:\Users\Edgardo\Documents\GitHub\ProyectoLe2018\AdminModule\WebServiceJSON\bin\AdminTO.pdb
+C:\Users\Edgardo\Documents\GitHub\ProyectoLe2018\AdminModule\WebServiceJSON\bin\AdminDAO.pdb
+C:\Users\Edgardo\Documents\GitHub\ProyectoLe2018\AdminModule\WebServiceJSON\obj\Debug\WebServiceJSON.csprojResolveAssemblyReference.cache
+C:\Users\Edgardo\Documents\GitHub\ProyectoLe2018\AdminModule\WebServiceJSON\obj\Debug\WebServiceJSON.dll
+C:\Users\Edgardo\Documents\GitHub\ProyectoLe2018\AdminModule\WebServiceJSON\obj\Debug\WebServiceJSON.pdb
