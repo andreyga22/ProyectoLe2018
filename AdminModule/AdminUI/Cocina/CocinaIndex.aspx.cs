@@ -21,9 +21,7 @@ namespace AdminUI.Cocina {
                 btnEntregar.Visible = true;
             }
             cargarCartas();
-            if (!IsPostBack) {
-                ViewState["listaPedidos"] = null;
-            }
+            
         }
 
         private void traerLista() {
@@ -32,10 +30,12 @@ namespace AdminUI.Cocina {
         }
 
         private void retornar() {
-            List<BLPedidos> nueva = new List<BLPedidos>();
-            nueva.Add((BLPedidos)ViewState["listaPedidos"]);
-            nueva.AddRange(listaPedidos);
-            listaPedidos = nueva;
+            BLPedidos pedido = (BLPedidos)Session["listaPedidos"];
+            pedido.estado = (String)Session["EstadoPedidos"];
+            new ManagerPedidos().EditarPedidos(pedido);
+            traerLista();
+            cargarCartas();
+            Response.Redirect("~/Cocina/CocinaIndex.aspx");
         }
 
         private void cargarCartas() {
@@ -80,7 +80,8 @@ namespace AdminUI.Cocina {
         }
 
         protected void btnEntregar_Click(object sender, EventArgs e) {
-            ViewState["listaPedidos"] = listaPedidos[0];
+            Session["listaPedidos"] = listaPedidos[0];
+            Session["EstadoPedidos"] = listaPedidos[0].estado + "";
             listaPedidos[0].estado = "Entregado";
             new ManagerPedidos().EditarPedidos(listaPedidos[0]);
             listaPedidos.Remove(listaPedidos[0]);
