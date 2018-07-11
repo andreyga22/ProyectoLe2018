@@ -22,3 +22,15 @@ C:\Users\Edgardo\Documents\GitHub\ProyectoLe2018\AdminModule\AdminUI\bin\AdminDA
 C:\Users\Edgardo\Documents\GitHub\ProyectoLe2018\AdminModule\AdminUI\obj\Debug\AdminUI.csprojResolveAssemblyReference.cache
 C:\Users\Edgardo\Documents\GitHub\ProyectoLe2018\AdminModule\AdminUI\obj\Debug\AdminUI.dll
 C:\Users\Edgardo\Documents\GitHub\ProyectoLe2018\AdminModule\AdminUI\obj\Debug\AdminUI.pdb
+C:\Users\josue vargas\Source\Repos\ProyectoLe2018\AdminModule\AdminUI\bin\AdminUI.dll.config
+C:\Users\josue vargas\Source\Repos\ProyectoLe2018\AdminModule\AdminUI\bin\AdminUI.dll
+C:\Users\josue vargas\Source\Repos\ProyectoLe2018\AdminModule\AdminUI\bin\AdminUI.pdb
+C:\Users\josue vargas\Source\Repos\ProyectoLe2018\AdminModule\AdminUI\bin\AdminBL.dll
+C:\Users\josue vargas\Source\Repos\ProyectoLe2018\AdminModule\AdminUI\bin\AdminTO.dll
+C:\Users\josue vargas\Source\Repos\ProyectoLe2018\AdminModule\AdminUI\bin\AdminDAO.dll
+C:\Users\josue vargas\Source\Repos\ProyectoLe2018\AdminModule\AdminUI\bin\AdminBL.pdb
+C:\Users\josue vargas\Source\Repos\ProyectoLe2018\AdminModule\AdminUI\bin\AdminTO.pdb
+C:\Users\josue vargas\Source\Repos\ProyectoLe2018\AdminModule\AdminUI\bin\AdminDAO.pdb
+C:\Users\josue vargas\Source\Repos\ProyectoLe2018\AdminModule\AdminUI\obj\Debug\AdminUI.csprojResolveAssemblyReference.cache
+C:\Users\josue vargas\Source\Repos\ProyectoLe2018\AdminModule\AdminUI\obj\Debug\AdminUI.dll
+C:\Users\josue vargas\Source\Repos\ProyectoLe2018\AdminModule\AdminUI\obj\Debug\AdminUI.pdb
