@@ -3,3 +3,7 @@ C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\pro
 C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\proyecto2\ProyectoLenguajes2018\AdminModule\AdminTO\obj\Debug\AdminTO.csprojResolveAssemblyReference.cache
 C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\proyecto2\ProyectoLenguajes2018\AdminModule\AdminTO\obj\Debug\AdminTO.dll
 C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\proyecto2\ProyectoLenguajes2018\AdminModule\AdminTO\obj\Debug\AdminTO.pdb
+C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\proyecto4\AdminModule\AdminTO\bin\Debug\AdminTO.dll
+C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\proyecto4\AdminModule\AdminTO\bin\Debug\AdminTO.pdb
+C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\proyecto4\AdminModule\AdminTO\obj\Debug\AdminTO.dll
+C:\Users\andre\Documents\MEGAsync\informatica\LenguajesAplicaciones\Proyecto\proyecto4\AdminModule\AdminTO\obj\Debug\AdminTO.pdb
