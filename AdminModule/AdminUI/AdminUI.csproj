@@ -94,6 +94,7 @@
     <Content Include="img\papas.jpg" />
     <Content Include="img\sandwich.jpg" />
     <Content Include="img\thumb-1920-207783.jpg" />
+    <Content Include="index.aspx" />
     <Content Include="Login\ControlUsuarioLogin.aspx" />
     <Content Include="Login\login.aspx" />
     <Content Include="obj\Debug\AdminUI.csproj.FileListAbsolute.txt" />
@@ -191,6 +192,13 @@
     </Compile>
     <Compile Include="Cocina\CocinaIndex.aspx.designer.cs">
       <DependentUpon>CocinaIndex.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="index.aspx.cs">
+      <DependentUpon>index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="index.aspx.designer.cs">
+      <DependentUpon>index.aspx</DependentUpon>
     </Compile>
     <Compile Include="Login\ControlUsuarioLogin.aspx.cs">
       <DependentUpon>ControlUsuarioLogin.aspx</DependentUpon>

@@ -30,12 +30,15 @@ namespace AdminUI.Cocina {
         }
 
         private void retornar() {
-            BLPedidos pedido = (BLPedidos)Session["listaPedidos"];
-            pedido.estado = (String)Session["EstadoPedidos"];
-            new ManagerPedidos().EditarPedidos(pedido);
-            traerLista();
-            cargarCartas();
-            Response.Redirect("~/Cocina/CocinaIndex.aspx");
+            if ((String)Session["EstadoPedidos"] != null && (String)Session["EstadoPedidos"] != String.Empty) {
+                BLPedidos pedido = (BLPedidos)Session["listaPedidos"];
+                pedido.estado = (String)Session["EstadoPedidos"];
+                new ManagerPedidos().EditarPedidos(pedido);
+                traerLista();
+                cargarCartas();
+                Response.Redirect("~/Cocina/CocinaIndex.aspx");
+            }
+            
         }
 
         private void cargarCartas() {
